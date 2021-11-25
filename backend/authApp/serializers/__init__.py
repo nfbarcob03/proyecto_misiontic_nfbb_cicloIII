@@ -1,0 +1,5 @@
+from .accountSerializer import AccountSerializer
+from .userSerializer import UserSerializer
+from .inmueble_arrendadoSerializer import InmuebleArrendadoSerializer
+from .inmuebleSerializer import InmuebleSerializer
+from .tipoInmuebleSerializer import TipoInmuebleSerializer
